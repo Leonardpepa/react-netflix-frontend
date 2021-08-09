@@ -7,6 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Preview
 ![preview-image](https://github.com/leonardpepa/react-netflix-frontend/blob/master/Capture.JPG?raw=true)
 
+![preview-image](https://github.com/leonardpepa/react-netflix-frontend/blob/master/Capture2.JPG?raw=true)
+
 ## Available Scripts
 
 In the project directory, you can run:
