@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * create an .env file and put the key in there with the name REACT_APP_API_KEY_TMDB
 
 ## Preview
-![preview-image](https://github.com/[leonardpepa]/[react-netflix-frontend]/blob/[master]/Capture.JPG?raw=true)
+![preview-image](https://github.com/leonardpepa/react-netflix-frontend/blob/master/Capture.JPG?raw=true)
 
 ## Available Scripts
 
