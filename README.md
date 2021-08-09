@@ -1,11 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+## Configuration 
+You need and api key from themoviedb
+create an .env file and put the key in there with the name REACT_APP_API_KEY_TMDB
+
 ## Available Scripts
 
 In the project directory, you can run:
 
 ### `npm start`
-
+You need and api key from themoviedb
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
