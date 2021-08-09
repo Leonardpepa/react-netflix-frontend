@@ -1,8 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Configuration 
-You need and api key from themoviedb
-create an .env file and put the key in there with the name REACT_APP_API_KEY_TMDB
+* You need and api key from themoviedb
+* create an .env file and put the key in there with the name REACT_APP_API_KEY_TMDB
+
+## Preview
+![preview-image](https://github.com/[leonardpepa]/[react-netflix-frontend]/blob/[master]/Capture.JPG?raw=true)
 
 ## Available Scripts
 
