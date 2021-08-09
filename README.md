@@ -2,8 +2,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Configuration 
 * You need and api key from themoviedb
-* create an .env file and put the key in there with the name REACT_APP_API_KEY_TMDB
-
+```terminal
+cd ..(your directories)
+cd netflix
+touch .env
+open env
+write your api key with the name REACT_APP_API_KEY_TMDB
+run npm install
+npm start
+```
 ## Preview
 ![preview-image](https://github.com/leonardpepa/react-netflix-frontend/blob/master/Capture.JPG?raw=true)
 
